@@ -4,25 +4,25 @@ MODEL ?= swiss-ai/Apertus-v1.5-8B
 .PHONY: run run-live run-8b run-70b run-both run-hf-8b run-hf-70b run-hf-both pilot-hf-8b pilot-hf-70b run-publicai-8b run-publicai-70b run-publicai-both build-image validate test smoke build-data report final-pdf
 
 build-image:
-	docker build -t $(IMAGE) track_2b
+	docker build -f track_2b/Dockerfile -t $(IMAGE) .
 
 # Contest-default entry point: Docker replay of the 468 SAVED genuine responses.
 # No credentials or new inference charges. The container validates the dataset,
 # checks the saved records and regenerates the full comparative report.
 run: build-image
 	docker run --rm \
-	  -v "$(abspath track_2b/results):/app/results" $(IMAGE)
+	  -v "$(abspath track_2b/results):/app/track_2b/results" $(IMAGE)
 
 # Explicit opt-in: new live inference, consuming authorized provider credits.
 # Do not call for reproducibility; 'make run' already replays genuine outputs.
 run-live: build-image
 	@if [ -f "$(ENV_FILE)" ]; then \
 	  docker run --rm --env-file "$(abspath $(ENV_FILE))" -e LLM_NAME="$(MODEL)" \
-	  -v "$(abspath track_2b/results):/app/results" $(IMAGE) \
+	  -v "$(abspath track_2b/results):/app/track_2b/results" $(IMAGE) \
 	  python src/run_benchmark.py; \
 	else \
 	  docker run --rm -e LLM_NAME="$(MODEL)" -e LLM_API_KEY -e CSCS_INFERENCE_API_KEY -e LLM_BASE_URL \
-	  -v "$(abspath track_2b/results):/app/results" $(IMAGE) \
+	  -v "$(abspath track_2b/results):/app/track_2b/results" $(IMAGE) \
 	  python src/run_benchmark.py; \
 	fi
 
@@ -59,14 +59,14 @@ run-hf-70b:
 pilot-hf-8b: build-image
 	@test -f track_2b/.env.huggingface || (echo "Create track_2b/.env.huggingface first"; exit 2)
 	docker run --rm --env-file "$(abspath track_2b/.env.huggingface)" \
-	  -v "$(abspath track_2b/results):/app/results" $(IMAGE) \
+	  -v "$(abspath track_2b/results):/app/track_2b/results" $(IMAGE) \
 	  python src/run_benchmark.py --model swiss-ai/Apertus-v1.5-8B:publicai \
 	  --limit 3 --max-attempts 1 --out results/PILOT_HF_8B.jsonl
 
 pilot-hf-70b: build-image
 	@test -f track_2b/.env.huggingface || (echo "Create track_2b/.env.huggingface first"; exit 2)
 	docker run --rm --env-file "$(abspath track_2b/.env.huggingface)" \
-	  -v "$(abspath track_2b/results):/app/results" $(IMAGE) \
+	  -v "$(abspath track_2b/results):/app/track_2b/results" $(IMAGE) \
 	  python src/run_benchmark.py --model swiss-ai/Apertus-v1.5-70B:publicai \
 	  --limit 3 --max-attempts 1 --out results/PILOT_HF_70B.jsonl
 
