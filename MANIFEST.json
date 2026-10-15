@@ -1,0 +1,44 @@
+{
+  "project": "EpiTrace",
+  "version": "0.5.3-slim-captions-github-ready",
+  "competition_track": "2B",
+  "created_during_hackathon": true,
+  "dataset": "original fictional synthetic stress test, not archival documents",
+  "n_synthetic_seeds": 39,
+  "n_eval_cases": 234,
+  "n_model_responses": 468,
+  "variants": [
+    "base",
+    "repeat_3",
+    "repeat_5",
+    "syndicated_linked_5",
+    "syndicated_unknown_5",
+    "independent_3"
+  ],
+  "data_builder": "track_2b/src/build_dataset.py",
+  "benchmark_sha256": "eec19b80367947138a54b9b3e5188a6ccc70811bf722ca3a6eb275d53f574900",
+  "licenses": {
+    "code": "Apache-2.0",
+    "docs": "CC-BY-4.0",
+    "data": "CDLA-Permissive-2.0"
+  },
+  "historical_originals_included": false,
+  "initial_historical_v0.1_not_published": true,
+  "inference_state": "COMPLETED: Public AI direct endpoint (not CSCS) on 14 Oct 2026, 234 valid cases per model; 0 recorded failures",
+  "docker_validation_state": "UNVERIFIED LOCALLY: Docker CLI absent; offline replay entry point and CI Docker test implemented",
+  "smoke_test_state": "PASSED: 25 offline tests + dataset validation; reproduced on 15 Oct 2026",
+  "model_a": "swiss-ai/apertus-v1.5-8b",
+  "model_b": "swiss-ai/apertus-v1.5-70b",
+  "result_location": "track_2b/results",
+  "post_evaluation_audit": "track_2b/results/analysis/EpiTrace_Independent_Methodological_Audit.md",
+  "publication_state": "RELEASE CANDIDATE: repository not yet published by assistant; owner approval and submission pending",
+  "inference_output_sha256": {
+    "apertus-v1.5-70b__neutral__b5896668501e57.jsonl": "90df87b1f59d2b0dced75fc8d1fb752933b56c8bd55630d68aaba0f1ebaec769",
+    "apertus-v1.5-8b__neutral__1c4378e8a4daf9.jsonl": "2c90bc52051d279cb0aacdb467cc005200f4e16bc727a35b6f94e736d6935132"
+  },
+  "judge_entry_point": "make run: Docker offline replay of recorded results, no API key or new requests",
+  "live_inference_entry_point": "make run-live or make run-publicai-{8b,70b}: new billable model calls, opt in",
+  "demo_preview": "track_2b/docs/EpiTrace_Demo_v0.5.3_SLIM_CAPTIONS.mp4 (104.3s; slim captions; no speech)",
+  "demo_neural_option": "track_2b/docs/neural_narrator_kit/run_on_mac.command (unverified Edge neural TTS service; requires online synthesis on Mac)",
+  "github_upload_note": "v0.5.3 corrected slim-caption demo hash and path; model and benchmark hashes unchanged"
+}

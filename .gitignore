@@ -1,0 +1,11 @@
+**/__pycache__/
+*.pyc
+.venv/
+*.env
+.env
+track_2b/.env
+track_2b/.env.publicai
+track_2b/.env.huggingface
+.DS_Store
+track_2b/results/*.tmp
+track_2b/results/*.lock
