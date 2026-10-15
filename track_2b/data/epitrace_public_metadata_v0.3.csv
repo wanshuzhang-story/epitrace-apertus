@@ -1,0 +1,235 @@
+case_id,seed_id,variant,synthetic,license,original_source,reference_basis,source_count_reference
+PUB001__base,PUB001,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB001__repeat_3,PUB001,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB001__repeat_5,PUB001,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB001__syndicated_linked_5,PUB001,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB001__syndicated_unknown_5,PUB001,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB001__independent_3,PUB001,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB002__base,PUB002,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB002__repeat_3,PUB002,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB002__repeat_5,PUB002,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB002__syndicated_linked_5,PUB002,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB002__syndicated_unknown_5,PUB002,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB002__independent_3,PUB002,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB003__base,PUB003,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB003__repeat_3,PUB003,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB003__repeat_5,PUB003,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB003__syndicated_linked_5,PUB003,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB003__syndicated_unknown_5,PUB003,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB003__independent_3,PUB003,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB004__base,PUB004,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB004__repeat_3,PUB004,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB004__repeat_5,PUB004,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB004__syndicated_linked_5,PUB004,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB004__syndicated_unknown_5,PUB004,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB004__independent_3,PUB004,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB005__base,PUB005,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB005__repeat_3,PUB005,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB005__repeat_5,PUB005,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB005__syndicated_linked_5,PUB005,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB005__syndicated_unknown_5,PUB005,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB005__independent_3,PUB005,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB006__base,PUB006,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB006__repeat_3,PUB006,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB006__repeat_5,PUB006,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB006__syndicated_linked_5,PUB006,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB006__syndicated_unknown_5,PUB006,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB006__independent_3,PUB006,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB007__base,PUB007,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB007__repeat_3,PUB007,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB007__repeat_5,PUB007,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB007__syndicated_linked_5,PUB007,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB007__syndicated_unknown_5,PUB007,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB007__independent_3,PUB007,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB008__base,PUB008,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB008__repeat_3,PUB008,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB008__repeat_5,PUB008,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB008__syndicated_linked_5,PUB008,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB008__syndicated_unknown_5,PUB008,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB008__independent_3,PUB008,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB009__base,PUB009,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB009__repeat_3,PUB009,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB009__repeat_5,PUB009,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB009__syndicated_linked_5,PUB009,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB009__syndicated_unknown_5,PUB009,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB009__independent_3,PUB009,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB010__base,PUB010,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB010__repeat_3,PUB010,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB010__repeat_5,PUB010,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB010__syndicated_linked_5,PUB010,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB010__syndicated_unknown_5,PUB010,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB010__independent_3,PUB010,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB011__base,PUB011,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB011__repeat_3,PUB011,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB011__repeat_5,PUB011,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB011__syndicated_linked_5,PUB011,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB011__syndicated_unknown_5,PUB011,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB011__independent_3,PUB011,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB012__base,PUB012,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB012__repeat_3,PUB012,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB012__repeat_5,PUB012,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB012__syndicated_linked_5,PUB012,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB012__syndicated_unknown_5,PUB012,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB012__independent_3,PUB012,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB013__base,PUB013,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB013__repeat_3,PUB013,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB013__repeat_5,PUB013,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB013__syndicated_linked_5,PUB013,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB013__syndicated_unknown_5,PUB013,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB013__independent_3,PUB013,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB014__base,PUB014,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB014__repeat_3,PUB014,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB014__repeat_5,PUB014,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB014__syndicated_linked_5,PUB014,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB014__syndicated_unknown_5,PUB014,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB014__independent_3,PUB014,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB015__base,PUB015,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB015__repeat_3,PUB015,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB015__repeat_5,PUB015,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB015__syndicated_linked_5,PUB015,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB015__syndicated_unknown_5,PUB015,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB015__independent_3,PUB015,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB016__base,PUB016,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB016__repeat_3,PUB016,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB016__repeat_5,PUB016,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB016__syndicated_linked_5,PUB016,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB016__syndicated_unknown_5,PUB016,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB016__independent_3,PUB016,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB017__base,PUB017,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB017__repeat_3,PUB017,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB017__repeat_5,PUB017,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB017__syndicated_linked_5,PUB017,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB017__syndicated_unknown_5,PUB017,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB017__independent_3,PUB017,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB018__base,PUB018,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB018__repeat_3,PUB018,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB018__repeat_5,PUB018,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB018__syndicated_linked_5,PUB018,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB018__syndicated_unknown_5,PUB018,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB018__independent_3,PUB018,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB019__base,PUB019,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB019__repeat_3,PUB019,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB019__repeat_5,PUB019,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB019__syndicated_linked_5,PUB019,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB019__syndicated_unknown_5,PUB019,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB019__independent_3,PUB019,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB020__base,PUB020,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB020__repeat_3,PUB020,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB020__repeat_5,PUB020,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB020__syndicated_linked_5,PUB020,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB020__syndicated_unknown_5,PUB020,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB020__independent_3,PUB020,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB021__base,PUB021,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB021__repeat_3,PUB021,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB021__repeat_5,PUB021,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB021__syndicated_linked_5,PUB021,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB021__syndicated_unknown_5,PUB021,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB021__independent_3,PUB021,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB022__base,PUB022,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB022__repeat_3,PUB022,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB022__repeat_5,PUB022,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB022__syndicated_linked_5,PUB022,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB022__syndicated_unknown_5,PUB022,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB022__independent_3,PUB022,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB023__base,PUB023,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB023__repeat_3,PUB023,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB023__repeat_5,PUB023,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB023__syndicated_linked_5,PUB023,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB023__syndicated_unknown_5,PUB023,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB023__independent_3,PUB023,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB024__base,PUB024,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB024__repeat_3,PUB024,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB024__repeat_5,PUB024,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB024__syndicated_linked_5,PUB024,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB024__syndicated_unknown_5,PUB024,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB024__independent_3,PUB024,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB025__base,PUB025,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB025__repeat_3,PUB025,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB025__repeat_5,PUB025,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB025__syndicated_linked_5,PUB025,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB025__syndicated_unknown_5,PUB025,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB025__independent_3,PUB025,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB026__base,PUB026,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB026__repeat_3,PUB026,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB026__repeat_5,PUB026,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB026__syndicated_linked_5,PUB026,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB026__syndicated_unknown_5,PUB026,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB026__independent_3,PUB026,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB027__base,PUB027,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB027__repeat_3,PUB027,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB027__repeat_5,PUB027,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB027__syndicated_linked_5,PUB027,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB027__syndicated_unknown_5,PUB027,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB027__independent_3,PUB027,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB028__base,PUB028,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB028__repeat_3,PUB028,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB028__repeat_5,PUB028,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB028__syndicated_linked_5,PUB028,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB028__syndicated_unknown_5,PUB028,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB028__independent_3,PUB028,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB029__base,PUB029,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB029__repeat_3,PUB029,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB029__repeat_5,PUB029,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB029__syndicated_linked_5,PUB029,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB029__syndicated_unknown_5,PUB029,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB029__independent_3,PUB029,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB030__base,PUB030,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB030__repeat_3,PUB030,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB030__repeat_5,PUB030,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB030__syndicated_linked_5,PUB030,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB030__syndicated_unknown_5,PUB030,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB030__independent_3,PUB030,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB031__base,PUB031,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB031__repeat_3,PUB031,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB031__repeat_5,PUB031,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB031__syndicated_linked_5,PUB031,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB031__syndicated_unknown_5,PUB031,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB031__independent_3,PUB031,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB032__base,PUB032,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB032__repeat_3,PUB032,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB032__repeat_5,PUB032,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB032__syndicated_linked_5,PUB032,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB032__syndicated_unknown_5,PUB032,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB032__independent_3,PUB032,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB033__base,PUB033,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB033__repeat_3,PUB033,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB033__repeat_5,PUB033,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB033__syndicated_linked_5,PUB033,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB033__syndicated_unknown_5,PUB033,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB033__independent_3,PUB033,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB034__base,PUB034,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB034__repeat_3,PUB034,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB034__repeat_5,PUB034,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB034__syndicated_linked_5,PUB034,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB034__syndicated_unknown_5,PUB034,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB034__independent_3,PUB034,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB035__base,PUB035,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB035__repeat_3,PUB035,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB035__repeat_5,PUB035,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB035__syndicated_linked_5,PUB035,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB035__syndicated_unknown_5,PUB035,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB035__independent_3,PUB035,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB036__base,PUB036,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB036__repeat_3,PUB036,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB036__repeat_5,PUB036,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB036__syndicated_linked_5,PUB036,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB036__syndicated_unknown_5,PUB036,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB036__independent_3,PUB036,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB037__base,PUB037,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB037__repeat_3,PUB037,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB037__repeat_5,PUB037,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB037__syndicated_linked_5,PUB037,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB037__syndicated_unknown_5,PUB037,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB037__independent_3,PUB037,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB038__base,PUB038,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB038__repeat_3,PUB038,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB038__repeat_5,PUB038,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB038__syndicated_linked_5,PUB038,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB038__syndicated_unknown_5,PUB038,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB038__independent_3,PUB038,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3
+PUB039__base,PUB039,base,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB039__repeat_3,PUB039,repeat_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB039__repeat_5,PUB039,repeat_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB039__syndicated_linked_5,PUB039,syndicated_linked_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",1
+PUB039__syndicated_unknown_5,PUB039,syndicated_unknown_5,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",unknown
+PUB039__independent_3,PUB039,independent_3,true,CDLA-Permissive-2.0,"original fictional vignette, not real archive","author-constructed conditions, not human gold",at least 3

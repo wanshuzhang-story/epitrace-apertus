@@ -1,0 +1,103 @@
+{
+  "date_utc": "2026-10-15",
+  "raw_case_count": 234,
+  "paired_seed_count": 39,
+  "model_case_observations": 468,
+  "dataset_sha256": "eec19b80367947138a54b9b3e5188a6ccc70811bf722ca3a6eb275d53f574900",
+  "prompt_sha256": "b7ced5bf89b70205adc855412b78f878314715de2fbed04681d30dedb7c22485",
+  "same_provider": "https://api.publicai.co/v1",
+  "flags_total": 105,
+  "flag_categories": {
+    "unresolved_source_lineage_as_NO": 78,
+    "baseline_single_excerpt_independence_UNKNOWN": 2,
+    "baseline_single_excerpt_independence_YES": 20,
+    "dependent_copy_support_inflation": 3,
+    "known_reuse_false_independence_YES": 2
+  },
+  "state_acc_by_label": {
+    "8B": {
+      "RUMOURED": [
+        7,
+        7
+      ],
+      "TENTATIVE": [
+        5,
+        5
+      ],
+      "PROBABLE": [
+        0,
+        5
+      ],
+      "CONFIRMED": [
+        0,
+        5
+      ],
+      "CONTESTED": [
+        5,
+        5
+      ],
+      "REJECTED": [
+        4,
+        5
+      ],
+      "SETTLED": [
+        0,
+        5
+      ],
+      "NOT_APPLICABLE": [
+        0,
+        2
+      ]
+    },
+    "70B": {
+      "RUMOURED": [
+        6,
+        7
+      ],
+      "TENTATIVE": [
+        5,
+        5
+      ],
+      "PROBABLE": [
+        0,
+        5
+      ],
+      "CONFIRMED": [
+        2,
+        5
+      ],
+      "CONTESTED": [
+        4,
+        5
+      ],
+      "REJECTED": [
+        4,
+        5
+      ],
+      "SETTLED": [
+        0,
+        5
+      ],
+      "NOT_APPLICABLE": [
+        0,
+        2
+      ]
+    }
+  },
+  "base_accuracy_discordance": {
+    "both_correct": 19,
+    "only_8b": 2,
+    "only_70b": 2,
+    "both_wrong": 16
+  },
+  "estimated_api_billing_usd_excluding_pilot": {
+    "8b": 0.0169,
+    "70b": 0.161,
+    "both": 0.1779,
+    "assumed_2026_10_12_publicai_rates": true
+  },
+  "independent_source_positive": {
+    "8B": 39,
+    "70B": 39
+  }
+}

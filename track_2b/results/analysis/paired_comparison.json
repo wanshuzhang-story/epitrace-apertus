@@ -1,0 +1,69 @@
+{
+  "model_a": "swiss-ai/apertus-v1.5-8b",
+  "model_b": "swiss-ai/apertus-v1.5-70b",
+  "protocol": "neutral",
+  "dataset_sha256": "eec19b80367947138a54b9b3e5188a6ccc70811bf722ca3a6eb275d53f574900",
+  "paired_seed_n": 39,
+  "prompt_sha256": "b7ced5bf89b70205adc855412b78f878314715de2fbed04681d30dedb7c22485",
+  "bootstrap_resamples": 5000,
+  "backend_provider": null,
+  "api_base": "https://api.publicai.co/v1",
+  "differences_b_minus_a": {
+    "base_state_accuracy": {
+      "difference": 0.0,
+      "paired_seed_bootstrap_95ci": [
+        -0.10256,
+        0.10256
+      ]
+    },
+    "paired_state_invariance": {
+      "difference": 0.00855,
+      "paired_seed_bootstrap_95ci": [
+        -0.10256,
+        0.11966
+      ]
+    },
+    "paired_closure_invariance": {
+      "difference": -0.00855,
+      "paired_seed_bootstrap_95ci": [
+        -0.06838,
+        0.05128
+      ]
+    },
+    "duplicated_sources_correct_no_independence": {
+      "difference": -0.01709,
+      "paired_seed_bootstrap_95ci": [
+        -0.05128,
+        0.0
+      ]
+    },
+    "unknown_lineage_correctly_unknown": {
+      "difference": 0.0,
+      "paired_seed_bootstrap_95ci": [
+        0.0,
+        0.0
+      ]
+    },
+    "independent_positive_control_accuracy": {
+      "difference": 0.0,
+      "paired_seed_bootstrap_95ci": [
+        0.0,
+        0.0
+      ]
+    },
+    "claim_support_inflation_gt_0.10_rate": {
+      "difference": -0.00855,
+      "paired_seed_bootstrap_95ci": [
+        -0.05128,
+        0.02564
+      ]
+    },
+    "full_seed_joint_pass_rate": {
+      "difference": 0.0,
+      "paired_seed_bootstrap_95ci": [
+        0.0,
+        0.0
+      ]
+    }
+  }
+}

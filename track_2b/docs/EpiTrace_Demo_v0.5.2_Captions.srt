@@ -1,0 +1,120 @@
+1
+00:00:00,000 --> 00:00:03,578
+Five newspapers can report one claim without supplying
+
+2
+00:00:03,578 --> 00:00:07,155
+five independent confirmations. EpiTrace tests whether Apertus recognizes
+
+3
+00:00:07,155 --> 00:00:10,733
+the difference between publication frequency and evidentiary origin.
+
+4
+00:00:10,733 --> 00:00:14,443
+A copied dispatch can circulate through several publications.
+
+5
+00:00:14,443 --> 00:00:18,152
+EpiTrace contrasts explicit reuse, unknown lineage, and genuinely
+
+6
+00:00:18,152 --> 00:00:21,862
+independent eyewitness accounts in a controlled, transparent evaluation.
+
+7
+00:00:21,862 --> 00:00:24,937
+Thirty nine original fictional scenarios were expanded into
+
+8
+00:00:24,937 --> 00:00:28,396
+six evidence conditions each. Apertus eight billion and seventy-billion-parameter
+
+9
+00:00:28,396 --> 00:00:31,855
+model each produced two hundred thirty four verified responses.
+
+10
+00:00:31,855 --> 00:00:35,626
+Known copies should produce no independent corroboration. Untraceable origins
+
+11
+00:00:35,626 --> 00:00:39,396
+should remain unknown. Separately documented firsthand accounts should count
+
+12
+00:00:39,396 --> 00:00:43,586
+as independent. These rules are part of the prompted evaluation.
+
+13
+00:00:43,586 --> 00:00:46,508
+For one-source repetitions and linked clippings, the eight-billion-parameter
+
+14
+00:00:46,508 --> 00:00:49,429
+model returned no in one hundred seventeen of
+
+15
+00:00:49,429 --> 00:00:52,716
+one hundred seventeen trials. Seventy billion missed only two.
+
+16
+00:00:52,716 --> 00:00:55,745
+All thirty nine untraceable origin cases were labeled no
+
+17
+00:00:55,745 --> 00:00:58,773
+by both models, although the benchmark reference was unknown.
+
+18
+00:00:58,773 --> 00:01:01,802
+Missing proof of independence does not establish shared sourcing.
+
+19
+00:01:01,802 --> 00:01:04,500
+In case P.U.B. zero two nine, a single
+
+20
+00:01:04,500 --> 00:01:07,197
+newspaper retracted an earlier report. Three and five
+
+21
+00:01:07,197 --> 00:01:10,232
+identical copies were counted as independent by seventy billion.
+
+22
+00:01:10,232 --> 00:01:13,631
+For case P.U.B. zero three seven, the eight-billion-parameter model increased
+
+23
+00:01:13,631 --> 00:01:17,029
+claim support from zero point seven five to zero point
+
+24
+00:01:17,029 --> 00:01:20,768
+nine five after exact repetition, although it answered no for independence.
+
+25
+00:01:20,768 --> 00:01:24,287
+Both models agreed with twenty one of thirty nine
+
+26
+00:01:24,287 --> 00:01:27,805
+baseline state labels. No clear scaling advantage emerged. These
+
+27
+00:01:27,805 --> 00:01:31,324
+were author-defined synthetic examples, not real historical accuracy measurements.
+
+28
+00:01:31,324 --> 00:01:35,361
+The full repository includes the synthetic dataset, raw model
+
+29
+00:01:35,361 --> 00:01:39,847
+responses, deterministic scoring and a Docker replay. Actual inference used
+
+30
+00:01:39,847 --> 00:01:44,333
+Public AI, not Swiss hosted infrastructure. EpiTrace keeps uncertainty visible.
+

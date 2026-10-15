@@ -1,0 +1,42 @@
+{
+  "dataset_n_cases": 234,
+  "n_successful_cases": 234,
+  "n_failed_or_missing_cases": 0,
+  "n_base_scored": 39,
+  "n_complete_6_variant_seeds": 39,
+  "n_stress_pairs": 117,
+  "base_state_accuracy": 0.53846,
+  "base_state_accuracy_wilson95": [
+    0.3857,
+    0.6843
+  ],
+  "base_state_macro_f1": 0.4301,
+  "base_closure_accuracy": 0.64103,
+  "base_independence_correct_no": 0.69231,
+  "paired_state_invariance": 0.80342,
+  "paired_closure_invariance": 0.91453,
+  "duplicated_sources_correct_no_independence": 0.98291,
+  "unknown_lineage_correctly_unknown": 0.0,
+  "independent_positive_control_accuracy": 1.0,
+  "claim_support_inflation_gt_0.10_rate": 0.00855,
+  "mean_claim_support_change_under_reuse": -0.06667,
+  "full_seed_joint_pass_rate": 0.0,
+  "source_independence_accuracy_by_variant": {
+    "base": 0.69231,
+    "independent_3": 1.0,
+    "repeat_3": 0.97436,
+    "repeat_5": 0.97436,
+    "syndicated_linked_5": 1.0,
+    "syndicated_unknown_5": 0.0
+  },
+  "scoring_note": "Descriptive synthetic-test metrics; no external gold, no historical generalization or model accuracy claims.",
+  "partial_run": false,
+  "unexpected_prediction_case_ids": [],
+  "runtime_usage": {
+    "success_n": 234,
+    "median_latency_seconds": 1.739,
+    "total_logged_latency_seconds": 1218.17,
+    "prompt_tokens": 132149,
+    "completion_tokens": 18038
+  }
+}

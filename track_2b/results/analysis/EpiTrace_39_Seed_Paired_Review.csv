@@ -1,0 +1,40 @@
+seed_id,claim,reference_state,reference_closure,8B_base_state,8B_base_correct,8B_base_independence,8B_unknown_independence,8B_known_copies_no,8B_state_invariant,8B_copy_max_support_delta,70B_base_state,70B_base_correct,70B_base_independence,70B_unknown_independence,70B_known_copies_no,70B_state_invariant,70B_copy_max_support_delta
+PUB001,the north canal gate at Alderwick was forced open overnight,RUMOURED,NO,RUMOURED,1,NO,NO,3,3,0.0,RUMOURED,1,NO,NO,3,3,0.0
+PUB002,the stone footbridge at Braehampton lost its central railing,RUMOURED,NO,RUMOURED,1,NO,NO,3,3,-0.2,RUMOURED,1,NO,NO,3,2,0.1
+PUB003,the west market bell at Carrow stopped at midnight,RUMOURED,NO,RUMOURED,1,NO,NO,3,3,-0.1,RUMOURED,1,NO,NO,3,3,-0.1
+PUB004,a sealed cargo chest went missing from Dunstmere quay,RUMOURED,NO,RUMOURED,1,NO,NO,3,3,-0.1,RUMOURED,1,NO,NO,3,3,-0.1
+PUB005,a new water wheel was damaged at Eglinton mill,RUMOURED,NO,RUMOURED,1,NO,NO,3,3,0.0,RUMOURED,1,NO,NO,3,3,-0.05
+PUB006,the southern watch hut at Fairhaven was deserted,RUMOURED,NO,RUMOURED,1,NO,NO,3,3,-0.1,TENTATIVE,0,NO,NO,3,1,-0.1
+PUB007,a packet of registry maps disappeared at Greyford,RUMOURED,NO,RUMOURED,1,NO,NO,3,3,-0.1,RUMOURED,1,NO,NO,3,3,-0.1
+PUB008,the telegraph relay at Halestone stopped transmitting,TENTATIVE,NO,TENTATIVE,1,NO,NO,3,1,0.0,TENTATIVE,1,NO,NO,3,3,-0.1
+PUB009,two crates of seed grain were damaged at Ironmere station,TENTATIVE,NO,TENTATIVE,1,NO,NO,3,0,-0.2,TENTATIVE,1,NO,NO,3,3,-0.1
+PUB010,the east sluice at Juniperford failed its spring test,TENTATIVE,PARTIAL,TENTATIVE,1,NO,NO,3,0,-0.2,TENTATIVE,1,NO,NO,3,2,-0.1
+PUB011,the council minute book at Kingshollow was misplaced,TENTATIVE,NO,TENTATIVE,1,NO,NO,3,2,0.0,TENTATIVE,1,NO,NO,3,2,0.0
+PUB012,the ferry at Larchport struck a submerged timber,TENTATIVE,PARTIAL,TENTATIVE,1,NO,NO,3,2,0.0,TENTATIVE,1,NO,NO,3,2,0.0
+PUB013,a storm cracked the northern greenhouse roof in Moorwick,PROBABLE,PARTIAL,TENTATIVE,0,NO,NO,3,3,0.0,TENTATIVE,0,NO,NO,3,3,0.0
+PUB014,the main footpath at Norvale was washed away,PROBABLE,PARTIAL,TENTATIVE,0,NO,NO,3,3,-0.1,TENTATIVE,0,NO,NO,3,3,-0.1
+PUB015,the archive furnace at Oakmere overheated on Sunday,PROBABLE,PARTIAL,TENTATIVE,0,NO,NO,3,3,0.0,TENTATIVE,0,NO,NO,3,3,0.0
+PUB016,the morning mail cart arrived late at Pinecross,PROBABLE,PARTIAL,TENTATIVE,0,NO,NO,3,2,0.0,TENTATIVE,0,NO,NO,3,3,0.0
+PUB017,the hill reservoir at Queensbridge lost a day of supply,PROBABLE,PARTIAL,TENTATIVE,0,UNKNOWN,NO,3,3,0.0,TENTATIVE,0,UNKNOWN,NO,3,2,0.0
+PUB018,the old signal post at Rillhaven was removed,CONFIRMED,YES,PROBABLE,0,NO,NO,3,3,0.1,PROBABLE,0,NO,NO,3,2,0.2
+PUB019,the east lock at Stoneleigh reopened for boats,CONFIRMED,YES,PROBABLE,0,YES,NO,3,3,0.1,PROBABLE,0,YES,NO,3,1,0.1
+PUB020,a memorial tablet was installed at Thistleford school,CONFIRMED,YES,PROBABLE,0,NO,NO,3,3,0.1,CONFIRMED,1,YES,NO,3,3,0.0
+PUB021,the upper bridge was closed at Underbank,CONFIRMED,YES,PROBABLE,0,YES,NO,3,1,0.1,CONFIRMED,1,YES,NO,3,3,0.0
+PUB022,the final census register reached Vellbrook hall,CONFIRMED,YES,PROBABLE,0,YES,NO,3,3,0.1,PROBABLE,0,YES,NO,3,3,0.1
+PUB023,the western embankment at Wrenford collapsed,CONTESTED,NO,CONTESTED,1,NO,NO,3,3,0.0,CONTESTED,1,NO,NO,3,3,-0.1
+PUB024,the grain scales at Yarrowbend were deliberately altered,CONTESTED,NO,CONTESTED,1,NO,NO,3,0,-0.1,CONTESTED,1,NO,NO,3,0,-0.05
+PUB025,the south pier lantern at Ashbrook went dark,CONTESTED,NO,CONTESTED,1,NO,NO,3,3,-0.15,RUMOURED,0,NO,NO,3,0,-0.1
+PUB026,the relief wagon overturned on Birchlow road,CONTESTED,NO,CONTESTED,1,NO,NO,3,3,-0.1,CONTESTED,1,NO,NO,3,3,-0.1
+PUB027,the copper survey at Cedarwick found a second vein,CONTESTED,NO,CONTESTED,1,NO,NO,3,3,-0.25,CONTESTED,1,NO,NO,3,3,-0.35
+PUB028,the southern gate at Driftmoor was destroyed,REJECTED,YES,REJECTED,1,NO,NO,3,3,0.0,REJECTED,1,NO,NO,3,3,0.0
+PUB029,a library register was stolen from Elmstead,REJECTED,YES,REJECTED,1,YES,NO,3,3,0.0,REJECTED,1,YES,NO,1,3,0.0
+PUB030,the harbor warehouse at Fernbrook caught fire,REJECTED,YES,REJECTED,1,NO,NO,3,3,0.0,REJECTED,1,NO,NO,3,3,0.0
+PUB031,the river foot ferry at Goldmere sank,REJECTED,YES,REJECTED,1,YES,NO,3,3,0.0,REJECTED,1,YES,NO,3,3,0.0
+PUB032,the township inspector resigned at Hazelbrook,REJECTED,YES,CONTESTED,0,NO,NO,3,1,-0.25,CONTESTED,0,NO,NO,3,1,-0.25
+PUB033,the damaged water channel at Ismere was repaired,SETTLED,YES,CONFIRMED,0,YES,NO,3,3,0.0,CONFIRMED,0,YES,NO,3,3,0.0
+PUB034,the missing survey portfolio at Jarrowfield was recovered,SETTLED,YES,CONFIRMED,0,YES,NO,3,3,0.0,CONFIRMED,0,YES,NO,3,3,0.0
+PUB035,the eastern approach road at Kelmar was reopened,SETTLED,YES,CONFIRMED,0,YES,NO,3,2,0.0,CONFIRMED,0,YES,NO,3,3,0.0
+PUB036,the school heating system at Lowhaven passed inspection,SETTLED,YES,CONFIRMED,0,NO,NO,3,3,0.1,CONFIRMED,0,YES,NO,3,3,0.0
+PUB037,the canal dredging at Mistralford was completed,SETTLED,YES,PROBABLE,0,YES,NO,3,1,0.2,PROBABLE,0,YES,NO,3,1,0.1
+PUB038,the village postbox at Nettlewick was moved to the bakery,NOT_APPLICABLE,NOT_APPLICABLE,RUMOURED,0,NO,NO,3,3,-0.1,RUMOURED,0,NO,NO,3,3,-0.1
+PUB039,the northern tower at Ottermere was painted blue,NOT_APPLICABLE,NOT_APPLICABLE,TENTATIVE,0,NO,NO,3,0,-0.15,TENTATIVE,0,NO,NO,3,0,-0.15

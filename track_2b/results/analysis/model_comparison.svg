@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="520" viewBox="0 0 940 520">
+<rect width="940" height="520" fill="#ffffff"/>
+<text x="22" y="28" font-family="Arial,sans-serif" font-size="22" fill="#13253C" font-weight="bold">EpiTrace | Apertus comparison</text>
+<text x="22" y="50" font-family="Arial,sans-serif" font-size="12" fill="#566678">All proportions computed from 39 paired seeds; no historical gold labels.</text>
+<text x="22" y="88" font-size="12" font-family="Arial,sans-serif" fill="#263548">Baseline state agreement (synthetic reference)</text>
+<rect x="390" y="72" width="250.38" height="12" rx="2" fill="#2B6CB0"/>
+<text x="865" y="82" font-size="11" font-family="Arial,sans-serif" fill="#263548">53.8%</text>
+<rect x="390" y="90" width="250.38" height="12" rx="2" fill="#198A86"/>
+<text x="865" y="100" font-size="11" font-family="Arial,sans-serif" fill="#263548">53.8%</text>
+<text x="22" y="143" font-size="12" font-family="Arial,sans-serif" fill="#263548">Known-copy state invariance</text>
+<rect x="390" y="127" width="369.61" height="12" rx="2" fill="#2B6CB0"/>
+<text x="865" y="137" font-size="11" font-family="Arial,sans-serif" fill="#263548">79.5%</text>
+<rect x="390" y="145" width="373.59" height="12" rx="2" fill="#198A86"/>
+<text x="865" y="155" font-size="11" font-family="Arial,sans-serif" fill="#263548">80.3%</text>
+<text x="22" y="198" font-size="12" font-family="Arial,sans-serif" fill="#263548">Known-copy closure invariance</text>
+<rect x="390" y="182" width="429.23" height="12" rx="2" fill="#2B6CB0"/>
+<text x="865" y="192" font-size="11" font-family="Arial,sans-serif" fill="#263548">92.3%</text>
+<rect x="390" y="200" width="425.26" height="12" rx="2" fill="#198A86"/>
+<text x="865" y="210" font-size="11" font-family="Arial,sans-serif" fill="#263548">91.5%</text>
+<text x="22" y="253" font-size="12" font-family="Arial,sans-serif" fill="#263548">Known-copy NO independence</text>
+<rect x="390" y="237" width="465.00" height="12" rx="2" fill="#2B6CB0"/>
+<text x="865" y="247" font-size="11" font-family="Arial,sans-serif" fill="#263548">100.0%</text>
+<rect x="390" y="255" width="457.05" height="12" rx="2" fill="#198A86"/>
+<text x="865" y="265" font-size="11" font-family="Arial,sans-serif" fill="#263548">98.3%</text>
+<text x="22" y="308" font-size="12" font-family="Arial,sans-serif" fill="#263548">Unresolved-lineage UNKNOWN</text>
+<rect x="390" y="292" width="0.00" height="12" rx="2" fill="#2B6CB0"/>
+<text x="865" y="302" font-size="11" font-family="Arial,sans-serif" fill="#263548">0.0%</text>
+<rect x="390" y="310" width="0.00" height="12" rx="2" fill="#198A86"/>
+<text x="865" y="320" font-size="11" font-family="Arial,sans-serif" fill="#263548">0.0%</text>
+<text x="22" y="363" font-size="12" font-family="Arial,sans-serif" fill="#263548">Independent-witness YES</text>
+<rect x="390" y="347" width="465.00" height="12" rx="2" fill="#2B6CB0"/>
+<text x="865" y="357" font-size="11" font-family="Arial,sans-serif" fill="#263548">100.0%</text>
+<rect x="390" y="365" width="465.00" height="12" rx="2" fill="#198A86"/>
+<text x="865" y="375" font-size="11" font-family="Arial,sans-serif" fill="#263548">100.0%</text>
+<text x="22" y="418" font-size="12" font-family="Arial,sans-serif" fill="#263548">Support inflation rate (&gt;0.10; lower is better)</text>
+<rect x="390" y="402" width="7.95" height="12" rx="2" fill="#2B6CB0"/>
+<text x="865" y="412" font-size="11" font-family="Arial,sans-serif" fill="#263548">1.7%</text>
+<rect x="390" y="420" width="3.98" height="12" rx="2" fill="#198A86"/>
+<text x="865" y="430" font-size="11" font-family="Arial,sans-serif" fill="#263548">0.9%</text>
+<text x="22" y="473" font-size="12" font-family="Arial,sans-serif" fill="#263548">All-criteria joint pass per seed</text>
+<rect x="390" y="457" width="0.00" height="12" rx="2" fill="#2B6CB0"/>
+<text x="865" y="467" font-size="11" font-family="Arial,sans-serif" fill="#263548">0.0%</text>
+<rect x="390" y="475" width="0.00" height="12" rx="2" fill="#198A86"/>
+<text x="865" y="485" font-size="11" font-family="Arial,sans-serif" fill="#263548">0.0%</text>
+<rect x="668" y="18" width="10" height="10" fill="#2B6CB0"/><text x="683" y="27" font-size="12" font-family="Arial">8B</text>
+<rect x="743" y="18" width="10" height="10" fill="#198A86"/><text x="758" y="27" font-size="12" font-family="Arial">70B</text>
+</svg>
