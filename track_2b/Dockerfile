@@ -1,12 +1,15 @@
-# Offline by default: judges can reproduce completed genuine experiments without a key.
+# Build from the repository root.
 FROM python:3.12-slim
-WORKDIR /app
-COPY requirements.txt ./
+
+WORKDIR /app/track_2b
+
+COPY track_2b/requirements.txt ./requirements.txt
 RUN pip install --no-cache-dir -r requirements.txt
-COPY src ./src
-COPY tests ./tests
-COPY data ./data
-COPY docs ./docs
-COPY results ./results
-COPY technical_report.md ./technical_report.md
+
+# Preserve root files needed by release_check.py.
+COPY README.md LICENSE LICENSE-DATA.md LICENSE-DOCS.md MANIFEST.json Makefile /app/
+
+# Preserve the actual project folder structure.
+COPY track_2b/ ./
+
 CMD ["sh", "-c", "python src/validate.py && python -m unittest discover -s tests -q && python src/report_results.py --auto --protocol neutral"]
